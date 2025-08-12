@@ -1,0 +1,14 @@
+build
+mandelbrot
+mandelbrot.pdf
+html
+latex
+*.txt
+*.o
+*.gcda 
+*.gcno 
+*.html 
+*.gcov
+*.css
+*.pgm
+*.png
